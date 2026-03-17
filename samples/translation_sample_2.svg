@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="40" y="50" font-size="28" font-family="Arial" font-weight="bold" fill="#0f172a">Swahili Translation Samples (5-8)</text>
+<text x="40" y="95" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 5</text>
+<text x="60" y="123" font-size="16" font-family="Arial" fill="#111827">EN: Describe what happens when the pressure increases.</text>
+<text x="60" y="145" font-size="16" font-family="Arial" fill="#b45309">MT SW: Eleza nini kutokea wakati shinikizo inaongezeka.</text>
+<text x="60" y="167" font-size="16" font-family="Arial" fill="#166534">Refined SW: Eleza kinachotokea shinikizo linapoongezeka.</text>
+<text x="40" y="201" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 6</text>
+<text x="60" y="229" font-size="16" font-family="Arial" fill="#111827">EN: A lot of data were collected during the field study.</text>
+<text x="60" y="251" font-size="16" font-family="Arial" fill="#b45309">MT SW: Nyingi data ilikusanywa wakati wa utafiti wa shamba.</text>
+<text x="60" y="273" font-size="16" font-family="Arial" fill="#166534">Refined SW: Data nyingi zilikusanywa wakati wa utafiti wa uwandani.</text>
+<text x="40" y="307" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 7</text>
+<text x="60" y="335" font-size="16" font-family="Arial" fill="#111827">EN: Draw a graph showing the relationship between mass and volume.</text>
+<text x="60" y="357" font-size="16" font-family="Arial" fill="#b45309">MT SW: Chora grafu inaonyesha uhusiano kati ya uzito na ujazo.</text>
+<text x="60" y="379" font-size="16" font-family="Arial" fill="#166534">Refined SW: Chora grafu inayoonesha uhusiano kati ya massa na ujazo.</text>
+<text x="40" y="413" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 8</text>
+<text x="60" y="441" font-size="16" font-family="Arial" fill="#111827">EN: Nutrients are absorbed through the small intestine.</text>
+<text x="60" y="463" font-size="16" font-family="Arial" fill="#b45309">MT SW: Virutubisho vinafyonzwa kupitia utumbo mdogo.</text>
+<text x="60" y="485" font-size="16" font-family="Arial" fill="#166534">Refined SW: Virutubisho hufyonzwa kupitia utumbo mwembamba.</text>
+</svg>

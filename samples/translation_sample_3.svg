@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="40" y="50" font-size="28" font-family="Arial" font-weight="bold" fill="#0f172a">Swahili Translation Samples (9-12)</text>
+<text x="40" y="95" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 9</text>
+<text x="60" y="123" font-size="16" font-family="Arial" fill="#111827">EN: The results indicate that the hypothesis was correct.</text>
+<text x="60" y="145" font-size="16" font-family="Arial" fill="#b45309">MT SW: Matokeo zinaonyesha kwamba nadharia ilikuwa sahihi.</text>
+<text x="60" y="167" font-size="16" font-family="Arial" fill="#166534">Refined SW: Matokeo yanaonyesha kwamba dhana tete ilikuwa sahihi.</text>
+<text x="40" y="201" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 10</text>
+<text x="60" y="229" font-size="16" font-family="Arial" fill="#111827">EN: Heat the solution until it boils.</text>
+<text x="60" y="251" font-size="16" font-family="Arial" fill="#b45309">MT SW: Pasha suluhisho mpaka chemka.</text>
+<text x="60" y="273" font-size="16" font-family="Arial" fill="#166534">Refined SW: Pasha suluhisho hilo hadi lichemke.</text>
+<text x="40" y="307" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 11</text>
+<text x="60" y="335" font-size="16" font-family="Arial" fill="#111827">EN: Climate change affects biodiversity in many regions.</text>
+<text x="60" y="357" font-size="16" font-family="Arial" fill="#b45309">MT SW: Mabadiliko ya tabia nchi inaathiri utofauti wa viumbe katika maeneo mengi.</text>
+<text x="60" y="379" font-size="16" font-family="Arial" fill="#166534">Refined SW: Mabadiliko ya tabianchi yanaathiri bioanuwai katika maeneo mengi.</text>
+<text x="40" y="413" font-size="20" font-family="Arial" font-weight="bold" fill="#1e293b">Example 12</text>
+<text x="60" y="441" font-size="16" font-family="Arial" fill="#111827">EN: Catalysts increase the rate of reaction without being consumed.</text>
+<text x="60" y="463" font-size="16" font-family="Arial" fill="#b45309">MT SW: Vichocheo huongeza kikomo cha mmenyuko bila kutumika.</text>
+<text x="60" y="485" font-size="16" font-family="Arial" fill="#166534">Refined SW: Vichocheo huongeza kiwango cha mmenyuko bila yenyewe kutumika.</text>
+</svg>
